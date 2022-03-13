@@ -12,5 +12,5 @@ Matías Mazparrote Feliu
 
 ## Créditos
 
-Espero que les haya gustado, para mí es un placer seguir desarrollando aplicaciones, seguir aprendiendo y formandome en este gran camino de programar
+Espero que les haya gustado, para mí es un placer seguir desarrollando aplicaciones, seguir perfeccionando y formandome en este gran camino de programar
 Hecho con ❤️ por @matiasfeliu92
